@@ -3660,14 +3660,9 @@ body {
 .cid-rjdv8YuY7v .mbr-section-btn P {
   text-align: left;
 }
-.cid-rjeqBuVbON {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
 .cid-rjuAHJ58cu {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rjuAHJ58cu .mbr-slider .carousel-control {
@@ -3726,6 +3721,11 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #cc6600, #45505b) !important;
+}
+.cid-rjeqBuVbON {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-rjdt5ZwBdf .navbar {
   padding: .5rem 0;
